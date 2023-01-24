@@ -1,0 +1,24 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+ }
+ #nav-btn a{
+    text-decoration: none;
+    color:white
+ }
+ #banner{
+   background-image: url("../images/banner.png"), url("../images/Rectangle\ 5.png");
+   background-repeat: no-repeat;
+   color:white
+ }
+ .btn-bg-style{
+   color:white;
+background: #B68C5A;
+ }
+ .fotter-text-color{
+   color:#CFCFCF;
+ }
+ .backgroundColor{
+
+   background:#CFCFCF;
+ }
+
